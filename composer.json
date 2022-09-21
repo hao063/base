@@ -1,0 +1,15 @@
+{
+    "name": "phihao/base",
+    "autoload": {
+        "psr-4": {
+            "Phihao\\Base\\": "src/ "
+        }
+    },
+    "authors": [
+        {
+            "name": "hao063",
+            "email": "phihao063@gmail.com"
+        }
+    ],
+    "require": {}
+}
